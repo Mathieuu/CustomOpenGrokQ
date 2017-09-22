@@ -1,5 +1,0 @@
-#### Title of the issue
-- Write here
-
-#### Content of the issue
-- Write here
